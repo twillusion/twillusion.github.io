@@ -1,0 +1,12 @@
+title: Eugene's Hub
+email: e0032314@u.nus.edu
+description: Solution Architect, Development Lead, Problem Solver
+url: "https://twillusion.github.io"
+github_username: twillusion
+#baseurl: ""
+markdown: kramdown
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
